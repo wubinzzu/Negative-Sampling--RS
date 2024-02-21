@@ -45,7 +45,7 @@ Existing negative sampling methods can be roughly divided into five categories: 
  -  **Adversarial Sampling**
     - KDD(2018) Neural Memory Streaming Recommender Networks with Adversarial Training.[[pdf]](http://www.shichuan.org/hin/time/2018.KDD%202018%20Neural%20Memory%20Streaming%20Recommender%20Networks%20with%20Adversarial%20Training.pdf)
 
-    -  CIKM(2018) CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks.
+    - CIKM(2018) CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks.[[pdf]](https://dl.acm.org/doi/10.1145/3269206.3271743)
     - IJCAI(2019) Deep Adversarial Social Recommendation.[[pdf]](https://arxiv.org/pdf/1905.13160.pdf)
     - CIKM(2019) Regularized Adversarial Sampling and Deep Time-aware Attention for Click-Through Rate Prediction.[[pdf]](https://arxiv.org/pdf/1911.00886.pdf)
     - AAAI(2019) Adversarial Binary Collaborative Filtering for Implicit Feedback.[[pdf]](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33015248)
