@@ -91,3 +91,80 @@ Existing negative sampling methods can be roughly divided into five categories: 
    - arXiv(2021) Socially-Aware Self-Supervised Tri-Training for Recommendation.[[pdf]](https://arxiv.org/pdf/2106.03569.pdf) | [[code]](https://github.com/Coder-Yu/QRec)
 
    - WWW(2021) DGCN: Diversified Recommendation with Graph Convolutional Networks.[[pdf]](https://arxiv.org/pdf/2108.06952.pdf) | [[code]](https://github.com/guokan987/DGCN)
+- **未分类**
+   - CIKM(2016) Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling.[[pdf]](https://dl.acm.org/doi/10.1145/2983323.2983874)
+   - 专家系统(2022) GANRec: A negative sampling model with generative adversarial network for recommendation.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S095741742202173X) | [[code]](https://github.com/Yangzhi22/GANRec)
+
+   - WWW(2020) Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations. [[pdf]](https://dl.acm.org/doi/10.1145/3366424.3386195) 
+
+   - Effective and efficient negative sampling in metric learning based recommendation.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522004650) 
+
+   - arXiv(2022) Generating Negative Samples for Sequential Recommendation. [[pdf]](https://arxiv.org/pdf/2208.03645.pdf) 
+
+    - Dynamic negative sampling for recommendation with feature matching.[[pdf]](https://link.springer.com/article/10.1007/s11042-023-17521-0)
+
+   -  RecSys(2023) gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling.[[pdf]](https://arxiv.org/pdf/2308.07192.pdf)
+
+   - WI-IAT(2021) Generalized Negative Sampling for Implicit Feedback in Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3486622.3493998)
+
+   - CIKM(2023) Batch-Mix Negative Sampling for Learning Recommendation Retrievers. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3583780.3614789) 
+   
+    - CSSE(2022) Hybrid Sampling Light Graph Collaborative Filtering for Social Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3569966.3570002)
+
+     -  Soft BPR Loss for Dynamic Hard Negative Sampling in Recommender Systems.[[pdf]](https://arxiv.org/pdf/2211.13912.pdf)
+
+   - Collaborative knowledge-aware recommendation based on neighborhood negative sampling.[[pdf]](https://dl.acm.org/doi/abs/10.1016/j.is.2023.102207)
+
+    - SIGIR(2022) Rule-Guided Knowledge-Graph based Negative Sampling for Outfit Recommendation.[[pdf]](https://sigir-ecom.github.io/ecom22Papers/paper_8739.pdf)
+
+   - WWW(2022) A Gain-Tuning Dynamic Negative Sampler for Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3485447.3511956)
+
+   - A Negative Sampling-Based Service Recommendation Method.[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_1)
+
+   - Reinforced PU-learning with Hybrid Negative Sampling Strategies for Recommendation.[[pdf]](https://dl.acm.org/doi/abs/10.1145/3582562)
+
+   - RecSys(2021) A Case Study on Sampling Strategies for Evaluating Neural Sequential Item Recommendation Models.[[pdf]](https://arxiv.org/pdf/2107.13045.pdf)
+
+   - SIAM(2023) UFNRec: Utilizing False Negative Samples for Sequential Recommendation.[[pdf]](https://arxiv.org/pdf/2208.04116.pdf) | [[code]](https://github.com/UFNRec-code/UFNRec)
+
+   - WWW(2023) On the Theories Behind Hard Negative Sampling for Recommendation.[[pdf]](https://arxiv.org/pdf/2302.03472.pdf) | 
+
+   - Towards Automated Negative Sampling in Implicit Recommendation.[[pdf]](https://arxiv.org/pdf/2311.03526.pdf)
+
+   - Development of an offline OOH advertising recommendation system using negative sampling and deep interest network 2024 [[pdf]](https://dl.acm.org/doi/10.1007/s11042-023-16083-5)
+
+   - TCSS(2024) Graph Contrastive Learning With Negative Propagation for Recommendation.[[pdf]](https://ieeexplore.ieee.org/document/10419035)
+
+    - WAIM(2022) User Multi-behavior Enhanced POI Recommendation with Efficient and Informative Negative Sampling.[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_11)
+
+     - Mutual Fund Recommendation Based on Robust Negative Sampling with Graph-Cut Algorithm  [[pdf]](https://kdf-workshop.github.io/kdf23/assets/images/kdf_2.pdf)
+
+   - SIGIR (2023) Exploring the Impact of Negative Sampling on Patent Citation Recommendation.[[pdf]](https://ceur-ws.org/Vol-3604/paper3.pdf)
+
+   - Reinforcement Learning-Based Explainable Recommendation over Knowledge Graphs with Negative Sampling.[[pdf]](https://ieeexplore.ieee.org/document/10189524)
+
+    -  Negative can be positive: Signed graph neural networks for recommendation.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001401)
+
+    - MSN(2019) Addressing the Conflict of Negative Feedback and Sampling for Online Ad Recommendation in Mobile Social Networks.[[pdf]](https://ieeexplore.ieee.org/document/9066164)
+
+   - KDD(2022) FedAttack: Effective and covert poisoning attack on federated recommendation via hard sampling.[[pdf]](https://arxiv.org/pdf/2202.04975.pdf)
+
+    -  Gan-based recommendation with positive-unlabeled sampling.[[pdf]](https://arxiv.org/pdf/2012.06901.pdf)
+
+    - ISAIEE(2022) Time and Space Aggregation Recommendation Model Based on Synthetic Negative Samples.[[pdf]](https://ieeexplore.ieee.org/document/10071152)
+
+   - WSDM(2023) Relation Preference Oriented High-order Sampling for Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3539597.3570424) | [[code]](https://github.com/RPHS/RPHS.git)
+
+   -  ICDM(2022) MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation.[[pdf]](https://ieeexplore.ieee.org/document/10027691)
+
+   - CSSE(2022) Hybrid Sampling Light Graph Collaborative Filtering for Social Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3569966.3570002)
+
+    -  arXir(2021) Knowledge Graph-Enhanced Sampling for Conversational Recommendation System.[[pdf]](https://arxiv.org/pdf/2110.06637.pdf)
+
+   - arXir(2024) Adaptive Hardness Negative Sampling for Collaborative Filtering. [[pdf]](https://arxiv.org/pdf/2401.05191.pdf) | [[code]](https://github.com/Riwei-HEU/AHNS)
+   
+   - RecSys(2023) Augmented Negative Sampling for Collaborative Filtering.
+   [[pdf]](https://dl.acm.org/doi/10.1145/3604915.3608811) | [[code]](https://github.com/Asa9aoTK/ANS-Recbole.)
+   
+   - WSDM(2023) Disentangled Negative Sampling for Collaborative Filtering.
+   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3539597.3570419) | [[code]](https://github.com/Riwei-HEU/DENS) 
