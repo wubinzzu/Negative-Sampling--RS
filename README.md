@@ -8,8 +8,6 @@ Existing negative sampling methods can be roughly divided into five categories: 
 
    - RecSys(2012) Real-Time Top-N Recommendation in Social Streams.[[pdf]](https://www.ismll.uni-hildesheim.de/pub/pdfs/Diaz_Drumond_et_al_RECSYS2012.pdf)
 
-   - SIGIR(2016) Fast Matrix Factorization for Online Recommendation with Implicit Feedback.[[pdf]](https://arxiv.org/pdf/1708.05024.pdf) | [[code]](https://github.com/hexiangnan/sigir16-eals)
-
    - RecSys(2018) Word2vec applied to Recommendation: Hyperparameters Matter.[[pdf]](https://arxiv.org/pdf/1804.04212.pdf)
 
     - WSDM(2021) Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph.[[pdf]](https://arxiv.org/pdf/2011.05061.pdf)
@@ -167,4 +165,9 @@ Existing negative sampling methods can be roughly divided into five categories: 
    [[pdf]](https://dl.acm.org/doi/10.1145/3604915.3608811) | [[code]](https://github.com/Asa9aoTK/ANS-Recbole.)
    
    - WSDM(2023) Disentangled Negative Sampling for Collaborative Filtering.
-   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3539597.3570419) | [[code]](https://github.com/Riwei-HEU/DENS) 
+   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3539597.3570419) | [[code]](https://github.com/Riwei-HEU/DENS)
+
+ - **Non-Sampling**
+     - SIGIR(2016) Fast Matrix Factorization for Online Recommendation with Implicit Feedback.[[pdf]](https://arxiv.org/pdf/1708.05024.pdf) | [[code]](https://github.com/hexiangnan/sigir16-eals)
+
+
