@@ -32,7 +32,7 @@ Existing negative sampling methods can be roughly divided into five categories: 
    
     -  KDD(2021) Curriculum Meta-Learning for Next POI Recommendation.[[pdf]](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2021_Curriculum%20Meta-Learning%20for%20Next%20POI%20Recommendation.pdf)
    
-     - arXiv(2022) Bayesian Negative Sampling for Recommendation.[[pdf]](https://arxiv.org/pdf/2204.06520.pdf) | [[code]](https://github.com/liubin06/BNS)
+     - ICDE(2023) Bayesian Negative Sampling for Recommendation.[[pdf]](https://arxiv.org/pdf/2204.06520.pdf) | [[code]](https://github.com/liubin06/BNS)
      
      - CIKM(2022) A Biased Sampling Method for Imbalanced Personalized Ranking.[[pdf]](https://openreview.net/pdf?id=TY1PM2Pg0Z)
     
@@ -53,6 +53,7 @@ Existing negative sampling methods can be roughly divided into five categories: 
     - KDD(2021) PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467234)
 
     - KDD(2021) Adversarial Feature Translation for Multi-domain Recommendation.[[pdf]](https://nlp.csai.tsinghua.edu.cn/~xrb/publications/KDD-2021_AFT.pdf) | [[code]](https://github.com/xiaobocser/AFT)
+
  - **Graph-based Sampling** 
     -  WWW(2014) ACRec: a co-authorship based random walk model for academic collaboration recommendation.[[pdf]](https://www.researchgate.net/publication/261961442_ACRec_a_co-authorship_based_random_walk_model_for_academic_collaboration_recommendation)
 
