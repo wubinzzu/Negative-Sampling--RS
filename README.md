@@ -56,6 +56,7 @@ Existing negative sampling methods can be roughly divided into five categories: 
       - arXir(2025)Momentum Contrastive Learning with Enhanced Negative Sampling and Hard Negative Filtering.[[pdf]](https://arxiv.org/pdf/2501.16360.pdf)
   
       - WSDM(2025)SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3701551.3703522.pdf) | [[code]](https://github.com/jeongwhanchoi/SCONE)
+    
  -  **Adversarial Sampling**
     - KDD(2018) Neural Memory Streaming Recommender Networks with Adversarial Training.[[pdf]](http://www.shichuan.org/hin/time/2018.KDD%202018%20Neural%20Memory%20Streaming%20Recommender%20Networks%20with%20Adversarial%20Training.pdf)
 
@@ -132,8 +133,6 @@ Existing negative sampling methods can be roughly divided into five categories: 
  
    - CSSE(2022) Hybrid Sampling Light Graph Collaborative Filtering for Social Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3569966.3570002)
 
-
-
 - **未分类**
    - CIKM(2016) Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling.[[pdf]](https://dl.acm.org/doi/10.1145/2983323.2983874)
    - 专家系统(2022) GANRec: A negative sampling model with generative adversarial network for recommendation.[[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S095741742202173X) | [[code]](https://github.com/Yangzhi22/GANRec)
@@ -181,3 +180,8 @@ Existing negative sampling methods can be roughly divided into five categories: 
    - ACM(2024) VAE*: A Novel Variational Autoencoder via Revisiting Positive and Negative Samples for Top-N Recommendation.[[pdf]](https://dl.acm.org/doi/10.1145/3680552)
  
    - KDD(2023)Robust Positive-Unlabeled Learning via Noise Negative Sample Self-correction.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599491.pdf) | [[code]](https://github.com/woriazzc/Robust-PU.)
+ 
+   - arXiv(2023)Reducing Popularity Bias in Recommender Systems through AUC-Optimal Negative Sampling.[[pdf]](https://arxiv.org/pdf/2306.01348)
+   - RECSYS(2023)Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions.[[pdf]](https://arxiv.org/pdf/2307.14906)
+   - WWW(2024)Diffusion-based Negative Sampling on Graphs for Link Prediction.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645650)
+   - RECSYS(2023)gSASRec: reducing overconfidence in sequential recommendation trained with negative sampling.[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2024/939)
