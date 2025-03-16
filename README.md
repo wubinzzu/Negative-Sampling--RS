@@ -3,6 +3,8 @@ This repository collects many papers related to negative sampling methods for Re
 Existing negative sampling methods can be roughly divided into five categories: **Static Negative Sampling, Hard Negative Sampling, Adversarial Sampling, Graph-based Sampling and Additional data enhanced Sampling**.
 
 ## categories
+ - **Survey**
+   - arXiv(2024) Negative Sampling in Recommendation: A Survey and Future Directions.[[pdf]](https://arxiv.org/abs/2409.07237)
  - **Static Negative Sampling**
    - UAI(2009) BPR: Bayesian Personalized Ranking from Implicit Feedback.[[pdf]](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)
 
