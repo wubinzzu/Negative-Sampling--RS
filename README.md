@@ -185,3 +185,4 @@ Existing negative sampling methods can be roughly divided into five categories: 
    - RECSYS(2023)Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions.[[pdf]](https://arxiv.org/pdf/2307.14906)
    - WWW(2024)Diffusion-based Negative Sampling on Graphs for Link Prediction.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645650)
    - RECSYS(2023)gSASRec: reducing overconfidence in sequential recommendation trained with negative sampling.[[pdf]](https://dl.acm.org/doi/10.24963/ijcai.2024/939)
+   - IEEE(2025)Exploration and Exploitation of Hard Negative Samples for Cross-Domain Sequential Recommendation.[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10879516)
