@@ -34,7 +34,7 @@ Existing negative sampling methods can be roughly divided into five categories: 
    
     -  KDD(2021) Curriculum Meta-Learning for Next POI Recommendation.[[pdf]](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2021_Curriculum%20Meta-Learning%20for%20Next%20POI%20Recommendation.pdf)
    
-     - arXiv(2022) Bayesian Negative Sampling for Recommendation.[[pdf]](https://arxiv.org/pdf/2204.06520.pdf) | [[code]](https://github.com/liubin06/BNS)
+     - ICDE(2023) Bayesian Negative Sampling for Recommendation.[[pdf]](https://arxiv.org/pdf/2204.06520.pdf) | [[code]](https://github.com/liubin06/BNS)
      
      - CIKM(2022) A Biased Sampling Method for Imbalanced Personalized Ranking.[[pdf]](https://openreview.net/pdf?id=TY1PM2Pg0Z)
     
